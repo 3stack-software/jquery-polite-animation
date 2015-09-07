@@ -1,5 +1,5 @@
 (function($){
-  var EVENTS = "mousemove keydown wheel mousedown touchstart keydown ";
+  var EVENTS = "keydown wheel mousedown touchstart keydown ";
 
   var EVENT_NAMESPACE = '.politeAnimation';
 
