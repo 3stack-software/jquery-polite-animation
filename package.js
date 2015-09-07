@@ -1,6 +1,6 @@
 Package.describe({
   name: '3stack:polite-animation',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'Runs an animation, and cancels if the user interacts with the page.',
   git: 'https://github.com/3stack-software/meteor-polite-animation',
   documentation: 'README.md'
